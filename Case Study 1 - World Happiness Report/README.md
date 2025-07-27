@@ -15,7 +15,7 @@ This case study explores the World Happiness Report data from 2015 to 2019 using
 
 ## 🛠️ Tools Used
 
-- MySQL / PostgreSQL
+- MySQL
 - GitHub
 - Excel (for minor pre-cleaning)
 
