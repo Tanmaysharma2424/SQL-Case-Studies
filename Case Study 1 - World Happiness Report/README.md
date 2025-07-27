@@ -1,4 +1,4 @@
-# Case Study 1 - World Happiness Report
+# Case Study 1 - World Happiness Report 
 
 This case study explores the World Happiness Report data from 2015 to 2019 using SQL.
 
